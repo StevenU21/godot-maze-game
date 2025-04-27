@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="MazeGame"
+run/main_scene="uid://cprdake6k4qje"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
